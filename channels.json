@@ -1,0 +1,2426 @@
+[
+  {
+    "id": "AMC.af",
+    "country": "AF",
+    "name": "AMC",
+    "logo": "https://i.imgur.com/qRrOi3t.png",
+    "categories": ["all", "music"],
+    "languages": ["afg"]
+  },
+  {
+    "id": "DunyaNawTV.af",
+    "country": "AF",
+    "name": "Dunya Naw TV",
+    "logo": "https://i.ibb.co/nQkLgyn/dunya-naw-tv.png",
+    "categories": ["all", "general"],
+    "languages": ["afg"]
+  },
+  {
+    "id": "EslahTV.af",
+    "country": "AF",
+    "name": "Eslah TV",
+    "logo": "https://i.imgur.com/To7VnsA.png",
+    "categories": ["all", "religious"],
+    "languages": ["afg"]
+  },
+  {
+    "id": "RTANews.af",
+    "country": "AF",
+    "name": "RTA News",
+    "logo": "https://rta.af/artmedia/2022/12/rta-logo-final-300x185.png",
+    "categories": ["all", "news"],
+    "languages": ["afg"]
+  },
+  {
+    "id": "TamadonTV.af",
+    "country": "AF",
+    "name": "Tamadon TV",
+    "logo": "https://i.imgur.com/edGyj5H.png",
+    "categories": ["all", "news"],
+    "languages": ["afg"]
+  },
+  {
+    "id": "SharqRadioTV.af",
+    "country": "AF",
+    "name": "Sharq Radio TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sharq_TV_Logo_2020.jpg/440px-Sharq_TV_Logo_2020.jpg",
+    "categories": ["all", "general"],
+    "languages": ["afg"]
+  },
+  {
+    "id": "AlbKanaleMusicTV.al",
+    "country": "AL",
+    "name": "AlbKanale Music TV",
+    "logo": "https://i.imgur.com/JdKxscs.png",
+    "categories": ["all", "music"],
+    "languages": ["ala"]
+  },
+  {
+    "id": "Kanali7.al",
+    "country": "AL",
+    "name": "Kanali 7",
+    "logo": "https://i.imgur.com/rL2v9pM.png",
+    "categories": ["all", "news"],
+    "languages": ["ala"]
+  },
+  {
+    "id": "OraNews.al",
+    "country": "AL",
+    "name": "Ora News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png",
+    "categories": ["all", "news"],
+    "languages": ["ala"]
+  },
+  {
+    "id": "CanalAlgérie.dz",
+    "country": "DZ",
+    "name": "Canal Algérie",
+    "logo": "https://i.imgur.com/VEb631f.png",
+    "categories": ["all", ""],
+    "languages": ["fra"]
+  },
+  {
+    "id": "KKTV.ao",
+    "country": "AO",
+    "name": "KK TV",
+    "logo": "https://i.imgur.com/gTabgkN.jpg",
+    "categories": ["all", "religious"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "MuzangalaTV.ao",
+    "country": "AO",
+    "name": "Muzangala TV",
+    "logo": "https://i.imgur.com/fBeaJoS.png",
+    "categories": ["all", "music"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "AiredeSantaFe.ar",
+    "country": "AR",
+    "name": "Aire de Santa Fe",
+    "logo": "https://i.imgur.com/60vSWW0.png",
+    "categories": ["all", "general"],
+    "languages": ["arg"]
+  },
+  {
+    "id": "AlternaTV.ar",
+    "country": "AR",
+    "name": "AlternaTV",
+    "logo": "https://alternatv.ar/alternatv.png",
+    "categories": ["all", ""],
+    "languages": ["arg"]
+  },
+  {
+    "id": "Antena91.ar",
+    "country": "AR",
+    "name": "Antena 91",
+    "logo": "https://i.imgur.com/HAJxHcV.png",
+    "categories": ["all", ""],
+    "languages": ["arg"]
+  },
+  {
+    "id": "ArgentinísimaSatelital.ar",
+    "country": "AR",
+    "name": "Argentinísima Satelital",
+    "logo": "https://i.imgur.com/xFgJawa.png",
+    "categories": ["all", "general"],
+    "languages": ["arg"]
+  },
+  {
+    "id": "MisionesCuatro.ar",
+    "country": "AR",
+    "name": "Misiones Cuatro",
+    "logo": "https://i.imgur.com/HXRpRlK.png",
+    "categories": ["all", "general"],
+    "languages": ["arg"]
+  },
+  {
+    "id": "ARTNTV.am",
+    "country": "AM",
+    "name": "ARTN TV",
+    "logo": "https://i.imgur.com/xd6zuuw.png",
+    "categories": ["all", "general"],
+    "languages": ["arm"]
+  },
+  {
+    "id": "FirstChannelNews.am",
+    "country": "AM",
+    "name": "First Channel News",
+    "logo": "https://i.imgur.com/RlYJUH4.png",
+    "categories": ["all", "news"],
+    "languages": ["arm"]
+  },
+  {
+    "id": "CoolFM98.9.aw",
+    "country": "AW",
+    "name": "Cool FM 98.9",
+    "logo": "https://i.imgur.com/uGE6lZ2.png",
+    "categories": ["all", "music"],
+    "languages": ["nld"]
+  },
+  {
+    "id": "HeartRadioAruba.aw",
+    "country": "AW",
+    "name": "Heart Radio Aruba",
+    "logo": "https://i.imgur.com/MKZCskA.png",
+    "categories": ["all", "music"],
+    "languages": ["nld"]
+  },
+  {
+    "id": "VIPTV.aw",
+    "country": "AW",
+    "name": "VIP TV",
+    "logo": "https://i.imgur.com/6N0qITv.png",
+    "categories": ["all", "music"],
+    "languages": ["nld"]
+  },
+  {
+    "id": "ABCMe.au",
+    "country": "AU",
+    "name": "ABC Me",
+    "logo": "https://i.imgur.com/6NyFLAm.png",
+    "categories": ["all", "education"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "BloombergTV.au",
+    "country": "AU",
+    "name": "Bloomberg TV",
+    "logo": "https://i.imgur.com/OuogLHx.png",
+    "categories": ["all", "business"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "Channel44.au",
+    "country": "AU",
+    "name": "Channel 44",
+    "logo": "https://i.imgur.com/P2wUGh9.png",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "HopeChannel.au",
+    "country": "AU",
+    "name": "Hope Channel",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9d/HopeChannelFVweb.png",
+    "categories": ["all", "religious"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "Racing.au",
+    "country": "AU",
+    "name": "Racing",
+    "logo": "https://i.imgur.com/Q55HX1O.png",
+    "categories": ["all", "sports"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "TickerNews.au",
+    "country": "AU",
+    "name": "Ticker News",
+    "logo": "https://i.imgur.com/z7M0QxV.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "TVSN.au",
+    "country": "AU",
+    "name": "TVSN",
+    "logo": "https://i.imgur.com/lmoAFm3.png",
+    "categories": ["all", "shop"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "FUELTV.at",
+    "country": "AT",
+    "name": "FUEL TV",
+    "logo": "https://i.imgur.com/I8mviBy.png",
+    "categories": ["all", "sports"],
+    "languages": ["deu"]
+  },
+  {
+    "id": "K-TV.at",
+    "country": "AT",
+    "name": "K-TV",
+    "logo": "https://i.imgur.com/RYbR4Sf.png",
+    "categories": ["all", ""],
+    "languages": ["deu"]
+  },
+  {
+    "id": "Kronehit.at",
+    "country": "AT",
+    "name": "Kronehit",
+    "logo": "https://i.imgur.com/dQJQv1X.png",
+    "categories": ["all", "music"],
+    "languages": ["deu"]
+  },
+  {
+    "id": "OktoTV.at",
+    "country": "AT",
+    "name": "Okto TV",
+    "logo": "https://i.imgur.com/9XfhgbS.png",
+    "categories": ["all", ""],
+    "languages": ["deu"]
+  },
+  {
+    "id": "RedBullTV.at",
+    "country": "AT",
+    "name": "Red Bull TV",
+    "logo": "",
+    "categories": ["all", "sports"],
+    "languages": ["deu"]
+  },
+  {
+    "id": "TV1Oberösterreich.at",
+    "country": "AT",
+    "name": "TV 1 Oberösterreich",
+    "logo": "https://i.imgur.com/KbMkEIn.png",
+    "categories": ["all", ""],
+    "languages": ["deu"]
+  },
+  {
+    "id": "AZNews.az",
+    "country": "AZ",
+    "name": "AZ News",
+    "logo": "https://i.imgur.com/Kw17XfP.png",
+    "categories": ["all", "news"],
+    "languages": ["aze"]
+  },
+  {
+    "id": "AzTV.az",
+    "country": "AZ",
+    "name": "Az TV",
+    "logo": "https://i.imgur.com/snBMMeH.png",
+    "categories": ["all", "general"],
+    "languages": ["aze"]
+  },
+  {
+    "id": "EkusheyTV.bd",
+    "country": "BD",
+    "name": "Ekushey TV",
+    "logo": "https://i.imgur.com/lRpkGHj.png",
+    "categories": ["all", "news"],
+    "languages": ["bgd"]
+  },
+  {
+    "id": "CBCTV8.bb",
+    "country": "BB",
+    "name": "CBC TV8",
+    "logo": "https://i.imgur.com/WsD83lq.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "СТБ.by",
+    "country": "BY",
+    "name": "СТБ",
+    "logo": "https://i.imgur.com/DCbfsyW.png",
+    "categories": ["all", ""],
+    "languages": ["rus"]
+  },
+  {
+    "id": "BelRTL.be",
+    "country": "BE",
+    "name": "Bel RTL",
+    "logo": "https://i.imgur.com/vJlAZsV.png",
+    "categories": ["all", "music"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "AfrikaMediaTV.be",
+    "country": "BE",
+    "name": "Afrika Media TV",
+    "logo": "https://i.imgur.com/9UmR6cs.png",
+    "categories": ["all", "culture"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "LN24.be",
+    "country": "BE",
+    "name": "LN24",
+    "logo": "https://i.imgur.com/1EkZRwn.png",
+    "categories": ["all", "news"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "Q-Music.be",
+    "country": "BE",
+    "name": "Q-Music",
+    "logo": "https://i.imgur.com/VX5e9Xt.png",
+    "categories": ["all", "music"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "StêrkTV.be",
+    "country": "BE",
+    "name": "Stêrk TV",
+    "logo": "https://i.imgur.com/bIheNAI.png",
+    "categories": ["all", "news"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "VTM.be",
+    "country": "BE",
+    "name": "VTM",
+    "logo": "https://i.imgur.com/djkPc9w.png",
+    "categories": ["all", ""],
+    "languages": ["fra"]
+  },
+  {
+    "id": "VTM2.be",
+    "country": "BE",
+    "name": "VTM 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/VTM_2_Logo.png/512px-VTM_2_Logo.png",
+    "categories": ["all", ""],
+    "languages": ["fra"]
+  },
+  {
+    "id": "BéninWebTV.bj",
+    "country": "BJ",
+    "name": "Bénin Web TV",
+    "logo": "https://i.imgur.com/CYy4n0N.png",
+    "categories": ["all", "news"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "Canal3Bénin.bj",
+    "country": "BJ",
+    "name": "Canal 3 Bénin",
+    "logo": "https://i.imgur.com/WIrVAa2.png",
+    "categories": ["all", ""],
+    "languages": ["fra"]
+  },
+  {
+    "id": "AbyaYalaTV.bo",
+    "country": "BO",
+    "name": "Abya Yala TV",
+    "logo": "https://comteco.com.bo/img/upload/canales/abya-yala.png",
+    "categories": ["all", "general"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "MegaTV.bo",
+    "country": "BO",
+    "name": "MegaTV",
+    "logo": "https://i.imgur.com/3d4uiZF.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "TVShowOruro.bo",
+    "country": "BO",
+    "name": "TV Show Oruro",
+    "logo": "https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png",
+    "categories": ["all", "general"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "Live99FM.bq",
+    "country": "BQ",
+    "name": "Live99FM",
+    "logo": "https://i.imgur.com/U43UrQT.png",
+    "categories": ["all", "music"],
+    "languages": ["nld"]
+  },
+  {
+    "id": "BNTV.ba",
+    "country": "BA",
+    "name": "BN TV",
+    "logo": "https://i.imgur.com/DUBvfWb.png",
+    "categories": ["all", ""],
+    "languages": ["bos"]
+  },
+  {
+    "id": "RTVZenica.ba",
+    "country": "BA",
+    "name": "RTV Zenica",
+    "logo": "https://i.imgur.com/TKUaflB.png",
+    "categories": ["all", ""],
+    "languages": ["bos"]
+  },
+  {
+    "id": "AdessoTV.br",
+    "country": "BR",
+    "name": "Adesso TV",
+    "logo": "https://i.imgur.com/KgetM8j.pn",
+    "categories": ["all", "general"],
+    "languages": ["por"]
+  },
+  {
+    "id": "AllSports.br",
+    "country": "BR",
+    "name": "All Sports",
+    "logo": "https://i.imgur.com/wULpnYR.png",
+    "categories": ["all", "sports"],
+    "languages": ["por"]
+  },
+  {
+    "id": "BemTV.br",
+    "country": "BR",
+    "name": "Bem TV",
+    "logo": "https://i.imgur.com/ifGQGJx.png",
+    "categories": ["all", "general"],
+    "languages": ["por"]
+  },
+  {
+    "id": "CanalEducação.br",
+    "country": "BR",
+    "name": "Canal Educação",
+    "logo": "https://i.imgur.com/OOB7nrS.png",
+    "categories": ["all", "education"],
+    "languages": ["por"]
+  },
+  {
+    "id": "CanalGov.br",
+    "country": "BR",
+    "name": "Canal Gov",
+    "logo": "https://i.imgur.com/rHPY0Yv.png",
+    "categories": ["all", "legislative"],
+    "languages": ["por"]
+  },
+  {
+    "id": "NovoTempo.br",
+    "country": "BR",
+    "name": "Novo Tempo",
+    "logo": "https://i.imgur.com/exdDHml.png",
+    "categories": ["all", "religious"],
+    "languages": ["por"]
+  },
+  {
+    "id": "CBNTV.vg",
+    "country": "VG",
+    "name": "CBN TV",
+    "logo": "https://i.imgur.com/uHvE04N.png",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "Evrokom.bg",
+    "country": "BG",
+    "name": "Evrokom",
+    "logo": "https://i.imgur.com/8LPtPf6.png",
+    "categories": ["all", "movies"],
+    "languages": ["bul"]
+  },
+  {
+    "id": "HopeChannel.bg",
+    "country": "BG",
+    "name": "Hope Channel",
+    "logo": "https://www.lyngsat.com/logo/tv/hh/hope-channel-bulgaria-us-bg.png",
+    "categories": ["all", "religious"],
+    "languages": ["bul"]
+  },
+  {
+    "id": "RMTV.bg",
+    "country": "BG",
+    "name": "RM TV",
+    "logo": "https://rmtv.bg/img/logo.png",
+    "categories": ["all", ""],
+    "languages": ["bul"]
+  },
+  {
+    "id": "BurkinaInfoTV.bf",
+    "country": "BF",
+    "name": "Burkina Info TV",
+    "logo": "https://i.imgur.com/a9v5CbU.png",
+    "categories": ["all", ""],
+    "languages": ["fra"]
+  },
+  {
+    "id": "ApsaraTV11.kh",
+    "country": "KH",
+    "name": "Apsara TV11",
+    "logo": "https://i.imgur.com/a9v5CbU.png",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "BayonTV.kh",
+    "country": "KH",
+    "name": "Bayon TV",
+    "logo": "https://i.imgur.com/Gry2KEN.jpg",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "NetlinkTV.kh",
+    "country": "KH",
+    "name": "Netlink TV",
+    "logo": "https://i.imgur.com/SoBhuIb.png",
+    "categories": ["all", ""],
+    "languages": ["eng"]
+  },
+  {
+    "id": "CENTélévision.cm",
+    "country": "CM",
+    "name": "CEN Télévision",
+    "logo": "https://i.ibb.co/2vJfdgN/unnamed.jpg",
+    "categories": ["all", "general"],
+    "languages": ["ara", "eng"]
+  },
+  {
+    "id": "CTVAfrique.cm",
+    "country": "CM",
+    "name": "CTV Afrique",
+    "logo": "https://i.ibb.co/k0mws9B/Ctv-Afrique.jpg",
+    "categories": ["all", "general"],
+    "languages": ["ara", "eng"]
+  },
+  {
+    "id": "AfghanNobelMovies.ca",
+    "country": "CA",
+    "name": "Afghan Nobel Movies",
+    "logo": "https://i.ibb.co/zfdbVSm/logo-1.png",
+    "categories": ["all", "movies"],
+    "languages": ["fra", "eng"]
+  },
+  {
+    "id": "AfghanNobelTV.ca",
+    "country": "CA",
+    "name": "Afghan Nobel TV",
+    "logo": "https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg",
+    "categories": ["all", "general"],
+    "languages": ["fra", "eng"]
+  },
+  {
+    "id": "AmazingDiscoveriesTV.ca",
+    "country": "CA",
+    "name": "Amazing Discoveries TV",
+    "logo": "https://i.imgur.com/I0oPFTj.png",
+    "categories": ["all", "religious"],
+    "languages": ["fra", "eng"]
+  },
+  {
+    "id": "AssembléeNationaleduQuébec.ca",
+    "country": "CA",
+    "name": "Assemblée Nationale du Québec",
+    "logo": "https://i.imgur.com/Eta6gUq.png",
+    "categories": ["all", "legislative"],
+    "languages": ["fra", "eng"]
+  },
+  {
+    "id": "AzStarTV.ca",
+    "country": "CA",
+    "name": "Az Star TV",
+    "logo": "https://i.imgur.com/di3XX5L.png",
+    "categories": ["all", "general"],
+    "languages": ["fra", "eng"]
+  },
+  {
+    "id": "CanalSavoir.ca",
+    "country": "CA",
+    "name": "Canal Savoir",
+    "logo": "https://i.imgur.com/QBzvCJc.png",
+    "categories": ["all", "general"],
+    "languages": ["fra", "eng"]
+  },
+  {
+    "id": "TVCidade.cv",
+    "country": "CV",
+    "name": "TV Cidade",
+    "logo": "https://i.imgur.com/gmSu21X.jpg",
+    "categories": ["all", "music"],
+    "languages": ["por"]
+  },
+  {
+    "id": "TéléTchad.td",
+    "country": "TD",
+    "name": "Télé Tchad",
+    "logo": "https://i.imgur.com/udSzfHD.png",
+    "categories": ["all", "general"],
+    "languages": ["ara", "fra"]
+  },
+  {
+    "id": "13Entretención.cl",
+    "country": "CL",
+    "name": "13 Entretención",
+    "logo": "https://i.imgur.com/utI1tJV.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "13Festival.cl",
+    "country": "CL",
+    "name": "13 Festival",
+    "logo": "https://i.imgur.com/hTUe0Pw.png",
+    "categories": ["all", "music"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "BreadTV面包台.cn",
+    "country": "CN",
+    "name": "Bread TV面包台",
+    "logo": "https://i.imgur.com/UR9vEIN.png",
+    "categories": ["all", ""],
+    "languages": ["zho"]
+  },
+  {
+    "id": "VOA美国之音.cn",
+    "country": "CN",
+    "name": "VOA美国之音",
+    "logo": "https://i.imgur.com/XCTZkoq.png",
+    "categories": ["all", ""],
+    "languages": ["zho"]
+  },
+  {
+    "id": "AgendaAlDíaTV.co",
+    "country": "CO",
+    "name": "Agenda Al Día TV",
+    "logo": "https://i.imgur.com/JFEFVwV.jpg",
+    "categories": ["all", "news"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "ANCTelevisión.co",
+    "country": "CO",
+    "name": "ANC Televisión",
+    "logo": "https://i.imgur.com/xjTU14t.jpg",
+    "categories": ["all", "entertainment"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "¡OPA!.cr",
+    "country": "CR",
+    "name": "¡OPA!",
+    "logo": "https://i.imgur.com/300c1ZH.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "CristoVisiónCanal31.cr",
+    "country": "CR",
+    "name": "Cristo Visión Canal 31",
+    "logo": "https://i.imgur.com/CFXZ8j0.png",
+    "categories": ["all", "religious"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "Enlace.cr",
+    "country": "CR",
+    "name": "Enlace",
+    "logo": "https://i.imgur.com/YwUVTmS.png",
+    "categories": ["all", "religious"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "CMCTV.hr",
+    "country": "HR",
+    "name": "CMC TV",
+    "logo": "https://i.imgur.com/FCb7Ag2.png",
+    "categories": ["all", "music"],
+    "languages": ["hrv"]
+  },
+  {
+    "id": "HRT1.hr",
+    "country": "HR",
+    "name": "HRT 1",
+    "logo": "https://i.imgur.com/lDSctzX.png",
+    "categories": ["all", ""],
+    "languages": ["hrv"]
+  },
+  {
+    "id": "HRT2.hr",
+    "country": "HR",
+    "name": "HRT 2",
+    "logo": "https://i.imgur.com/yyePcl1.png",
+    "categories": ["all", ""],
+    "languages": ["hrv"]
+  },
+  {
+    "id": "HRT3.hr",
+    "country": "HR",
+    "name": "HRT 3",
+    "logo": "https://i.imgur.com/4OrOJRx.png",
+    "categories": ["all", ""],
+    "languages": ["hrv"]
+  },
+  {
+    "id": "KlapeiTambureTV.hr",
+    "country": "HR",
+    "name": "Klape i Tambure TV",
+    "logo": "https://i.imgur.com/4OrOJRx.png",
+    "categories": ["all", "music"],
+    "languages": ["hrv"]
+  },
+  {
+    "id": "STV.hr",
+    "country": "HR",
+    "name": "STV",
+    "logo": "https://i.imgur.com/VcNrY0m.png",
+    "categories": ["all", ""],
+    "languages": ["hrv"]
+  },
+  {
+    "id": "PrensaLatinaTV.cu",
+    "country": "CU",
+    "name": "Prensa Latina TV",
+    "logo": "https://i.imgur.com/jbm2S9O.jpg",
+    "categories": ["all", "news"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "RadioyTelevisiónMartí.cu",
+    "country": "CU",
+    "name": "Radio y Televisión Martí",
+    "logo": "https://i.imgur.com/Y7E5OTy.png",
+    "categories": ["all", ""],
+    "languages": ["spa"]
+  },
+  {
+    "id": "ADATV.cy",
+    "country": "CY",
+    "name": "ADA TV",
+    "logo": "https://i.imgur.com/YWmkUWU.png",
+    "categories": ["all", "general"],
+    "languages": ["ell", "tur"]
+  },
+  {
+    "id": "ElektrikaTV.cz",
+    "country": "CZ",
+    "name": "Elektrika TV",
+    "logo": "https://i.imgur.com/OLd5od5.png",
+    "categories": ["all", ""],
+    "languages": ["ces"]
+  },
+  {
+    "id": "JČ1.cz",
+    "country": "CZ",
+    "name": "JČ1",
+    "logo": "https://i.imgur.com/AM8YtcV.png",
+    "categories": ["all", "general"],
+    "languages": ["ces"]
+  },
+  {
+    "id": "Minimax.cz",
+    "country": "CZ",
+    "name": "Minimax",
+    "logo": "https://i.imgur.com/WWOlm1x.png",
+    "categories": ["all", "kids"],
+    "languages": ["ces"]
+  },
+  {
+    "id": "Óčko.cz",
+    "country": "CZ",
+    "name": "Óčko",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png",
+    "categories": ["all", "music"],
+    "languages": ["ces"]
+  },
+  {
+    "id": "TV2Kosmopol.dk",
+    "country": "DK",
+    "name": "TV 2 Kosmopol",
+    "logo": "https://i.imgur.com/oVmCoKY.png",
+    "categories": ["all", ""],
+    "languages": ["dan"]
+  },
+  {
+    "id": "TV2Nord.dk",
+    "country": "DK",
+    "name": "TV2 Nord",
+    "logo": "https://i.imgur.com/tEJ22UW.png",
+    "categories": ["all", ""],
+    "languages": ["dan"]
+  },
+  {
+    "id": "TV2Øst.dk",
+    "country": "DK",
+    "name": "TV2 Øst",
+    "logo": "https://i.imgur.com/H9l6Ulw.png",
+    "categories": ["all", ""],
+    "languages": ["dan"]
+  },
+  {
+    "id": "TDNTV.dm",
+    "country": "DM",
+    "name": "TDN TV",
+    "logo": "https://i.ibb.co/x5gqtmJ/TDN-TV-tvtolive-com.jpg",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "Agenda56.do",
+    "country": "DO",
+    "name": "Agenda 56",
+    "logo": "https://i.imgur.com/G7zIVB7.png",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "Amé47.do",
+    "country": "DO",
+    "name": "Amé 47",
+    "logo": "https://i.imgur.com/MUEbjeP.png",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "BonaoTV.do",
+    "country": "DO",
+    "name": "Bonao TV",
+    "logo": "https://i.imgur.com/en1vCZB.png",
+    "categories": ["all", ""],
+    "languages": ["eng"]
+  },
+  {
+    "id": "AméricaEstéreoGuayaquil.ec",
+    "country": "EC",
+    "name": "América Estéreo Guayaquil",
+    "logo": "https://i.imgur.com/gUqKymM.png",
+    "categories": ["all", "general"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "AméricaEstéreoIbarra.ec",
+    "country": "EC",
+    "name": "América Estéreo Ibarra",
+    "logo": "https://i.imgur.com/gUqKymM.png",
+    "categories": ["all", "general"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "AlfathAtfalTV.eg",
+    "country": "EG",
+    "name": "Alfath Atfal TV",
+    "logo": "https://i.imgur.com/p82RKIq.png",
+    "categories": ["all", "religious"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "AlfathSonnahTV.eg",
+    "country": "EG",
+    "name": "Alfath Sonnah TV",
+    "logo": "https://i.imgur.com/7VYJStp.png",
+    "categories": ["all", "religious"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "Canal3Impresionante.sv",
+    "country": "SV",
+    "name": "Canal 3 Impresionante",
+    "logo": "https://i.imgur.com/mdfiWG9.png",
+    "categories": ["all", "general"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "SolTV.gq",
+    "country": "GQ",
+    "name": "SolTV",
+    "logo": "https://i.imgur.com/TJHk6Va.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "AddisTV.et",
+    "country": "ET",
+    "name": "Addis TV",
+    "logo": "https://i.imgur.com/kqHWrZ9.png",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "EBSCinema.et",
+    "country": "ET",
+    "name": "EBS Cinema",
+    "logo": "https://i.imgur.com/fewPTFE.png",
+    "categories": ["all", "movies"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "EBSHD.et",
+    "country": "ET",
+    "name": "EBS HD",
+    "logo": "https://i.imgur.com/AcZliAE.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "AVA.fi",
+    "country": "FI",
+    "name": "AVA",
+    "logo": "https://i.imgur.com/8TR4noi.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["fin"]
+  },
+  {
+    "id": "Frii.fi",
+    "country": "FI",
+    "name": "Frii",
+    "logo": "https://i.imgur.com/9sYC2IE.png",
+    "categories": ["all", "religious"],
+    "languages": ["fin"]
+  },
+  {
+    "id": "HimlenTV7.fi",
+    "country": "FI",
+    "name": "Himlen TV7",
+    "logo": "https://i.imgur.com/k8a7KNn.png",
+    "categories": ["all", "religious"],
+    "languages": ["fin"]
+  },
+  {
+    "id": "20MinutesTV.fr",
+    "country": "FR",
+    "name": "20 Minutes TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png",
+    "categories": ["all", "general"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "A12TV.fr",
+    "country": "FR",
+    "name": "A12 TV",
+    "logo": "https://i.imgur.com/JgnjgvF.png",
+    "categories": ["all", "general"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "AlbiTV.fr",
+    "country": "FR",
+    "name": "Albi TV",
+    "logo": "https://i.imgur.com/MJdY1m3.png",
+    "categories": ["all", "general"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "AbazaTV.ge",
+    "country": "GE",
+    "name": "Abaza TV",
+    "logo": "https://i.imgur.com/7Jo7UAf.png",
+    "categories": ["all", "general"],
+    "languages": ["kat"]
+  },
+  {
+    "id": "Formula.ge",
+    "country": "GE",
+    "name": "Formula",
+    "logo": "https://i.imgur.com/fsqBn8G.png",
+    "categories": ["all", "news"],
+    "languages": ["kat"]
+  },
+  {
+    "id": "ImediTV.ge",
+    "country": "GE",
+    "name": "Imedi TV",
+    "logo": "https://i.imgur.com/94hNyxZ.png",
+    "categories": ["all", ""],
+    "languages": ["kat"]
+  },
+  {
+    "id": "1-2-3TV.de",
+    "country": "DE",
+    "name": "1-2-3 TV",
+    "logo": "https://i.imgur.com/slSUDNX.png",
+    "categories": ["all", "shop"],
+    "languages": ["deu"]
+  },
+  {
+    "id": "Anixe+.de",
+    "country": "DE",
+    "name": "Anixe +",
+    "logo": "https://i.imgur.com/hvGJ2oa.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["deu"]
+  },
+  {
+    "id": "AnixeHDSerie.de",
+    "country": "DE",
+    "name": "Anixe HD Serie",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/512px-Anixe_HD.svg.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["deu"]
+  },
+  {
+    "id": "ARD-alpha.de",
+    "country": "DE",
+    "name": "ARD-alpha",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png",
+    "categories": ["all", "education"],
+    "languages": ["deu"]
+  },
+  {
+    "id": "AristoTV.de",
+    "country": "DE",
+    "name": "Aristo TV",
+    "logo": "https://i.imgur.com/DLVjeno.png",
+    "categories": ["all", ""],
+    "languages": ["deu"]
+  },
+  {
+    "id": "ChannelOneTV.gh",
+    "country": "GH",
+    "name": "ChannelOne TV",
+    "logo": "https://i.imgur.com/XJsN2WR.png",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "GHtvHolland.gh",
+    "country": "GH",
+    "name": "GHtv Holland",
+    "logo": "https://i.imgur.com/hOGS5LL.png",
+    "categories": ["all", ""],
+    "languages": ["eng"]
+  },
+  {
+    "id": "HopeChannelGhana.gh",
+    "country": "GH",
+    "name": "Hope Channel Ghana",
+    "logo": "https://i.imgur.com/d1P9ekm.png",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ARTTV.gr",
+    "country": "GR",
+    "name": "ART TV",
+    "logo": "https://i.imgur.com/ZgKZ5u9.jpg",
+    "categories": ["all", "general"],
+    "languages": ["ell"]
+  },
+  {
+    "id": "BarazaTVDeepHouse.gr",
+    "country": "GR",
+    "name": "Baraza TV Deep House",
+    "logo": "https://i.imgur.com/TZ1unwF.png",
+    "categories": ["all", "music"],
+    "languages": ["ell"]
+  },
+  {
+    "id": "RadioTVBasse-Terre.gp",
+    "country": "GP",
+    "name": "Radio TV Basse-Terre",
+    "logo": "https://i.imgur.com/1gGz3Uw.jpg",
+    "categories": ["all", "general"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "RHTGuadeloupe.gp",
+    "country": "GP",
+    "name": "RHT Guadeloupe",
+    "logo": "https://i.imgur.com/lV8M3nn.jpg",
+    "categories": ["all", "music"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "AuroraMediaFilms.gt",
+    "country": "GT",
+    "name": "Aurora Media Films",
+    "logo": "https://i.imgur.com/DVC5w6H.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "CaviTV.gn",
+    "country": "GN",
+    "name": "Cavi TV",
+    "logo": "https://i.imgur.com/kwXzUwd.png",
+    "categories": ["all", "general"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "FLSport.gy",
+    "country": "GY",
+    "name": "FL Sport",
+    "logo": "https://i.imgur.com/i8o7QEj.png",
+    "categories": ["all", "sports"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "FideleTV.ht",
+    "country": "HT",
+    "name": "Fidele TV",
+    "logo": "https://i.ibb.co/YtBZ0Lc/FIDELE-TV.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "RadioTélé4VEH.ht",
+    "country": "HT",
+    "name": "Radio Télé 4VEH",
+    "logo": "https://i.imgur.com/AnOjqaS.png",
+    "categories": ["all", "religious"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "BloombergTVAsia.hk",
+    "country": "HK",
+    "name": "Bloomberg TV Asia",
+    "logo": "https://i.imgur.com/OuogLHx.png",
+    "categories": ["all", "business"],
+    "languages": ["zho", "eng"]
+  },
+  {
+    "id": "BloombergTVAsiaLiveEvent.hk",
+    "country": "HK",
+    "name": "Bloomberg TV Asia Live Event",
+    "logo": "https://i.imgur.com/OuogLHx.png",
+    "categories": ["all", "business"],
+    "languages": ["zho", "eng"]
+  },
+  {
+    "id": "凤凰资讯.hk",
+    "country": "HK",
+    "name": "凤凰资讯",
+    "logo": "https://i.imgur.com/mt4h3VO.png",
+    "categories": ["all", "news"],
+    "languages": ["zho", "eng"]
+  },
+  {
+    "id": "16tvBudapest.hu",
+    "country": "HU",
+    "name": "16tv Budapest",
+    "logo": "https://i.imgur.com/04fCzHl.png",
+    "categories": ["all", "general"],
+    "languages": ["hun"]
+  },
+  {
+    "id": "ESTV.hu",
+    "country": "HU",
+    "name": "ESTV",
+    "logo": "https://i.imgur.com/OCZ8CfK.png",
+    "categories": ["all", "general"],
+    "languages": ["hun"]
+  },
+  {
+    "id": "RÚV.is",
+    "country": "IS",
+    "name": "RÚV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/512px-R%C3%9AV_ohf_2019_logo.svg.png",
+    "categories": ["all", "general"],
+    "languages": ["isl"]
+  },
+  {
+    "id": "Vísir.is",
+    "country": "IS",
+    "name": "Vísir",
+    "logo": "https://i.imgur.com/07Vlt6i.jpg",
+    "categories": ["all", "news"],
+    "languages": ["isl"]
+  },
+  {
+    "id": "9XM.in",
+    "country": "IN",
+    "name": "9XM",
+    "logo": "https://i.imgur.com/F17QtN2.png",
+    "categories": ["all", "music"],
+    "languages": ["hin"]
+  },
+  {
+    "id": "AajTak.in",
+    "country": "IN",
+    "name": "Aaj Tak",
+    "logo": "https://i.imgur.com/RpIdCB3.png",
+    "categories": ["all", "news"],
+    "languages": ["hin"]
+  },
+  {
+    "id": "AKTV.id",
+    "country": "ID",
+    "name": "AKTV",
+    "logo": "https://i.imgur.com/DUY5WXf.png",
+    "categories": ["all", "general"],
+    "languages": ["ind"]
+  },
+  {
+    "id": "AlborzTV.ir",
+    "country": "IR",
+    "name": "Alborz TV",
+    "logo": "https://i.imgur.com/tiHdLlK.png",
+    "categories": ["all", "general"],
+    "languages": ["fas"]
+  },
+  {
+    "id": "AbalfadhlTV.ir",
+    "country": "IR",
+    "name": "Abalfadhl TV",
+    "logo": "https://i.ibb.co/cCmjqtQ/logo-2.png",
+    "categories": ["all", "religious"],
+    "languages": ["fas"]
+  },
+  {
+    "id": "AfaqTV.iq",
+    "country": "IQ",
+    "name": "Afaq TV",
+    "logo": "https://i.imgur.com/t7CaTu3.png",
+    "categories": ["all", "general"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "Cúla4.ie",
+    "country": "IE",
+    "name": "Cúla4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cula4_Purple_2022_%281%29.svg/512px-Cula4_Purple_2022_%281%29.svg.png",
+    "categories": ["all", "kids"],
+    "languages": ["eng", "gle"]
+  },
+  {
+    "id": "ch21ערוץהקניות.il",
+    "country": "IL",
+    "name": "ch 21 ערוץ הקניות",
+    "logo": "https://upload.wikimedia.org/wikipedia/he/b/b9/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_%D7%A2%D7%A8%D7%95%D7%A5_%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg",
+    "categories": ["all", "shop"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "Adnkronos.it",
+    "country": "IT",
+    "name": "Adnkronos",
+    "logo": "https://i.imgur.com/mEoDAf1.png",
+    "categories": ["all", "news"],
+    "languages": ["ita"]
+  },
+  {
+    "id": "AuroraArte.it",
+    "country": "IT",
+    "name": "Aurora Arte",
+    "logo": "https://i.imgur.com/Y1Yq3iV.png",
+    "categories": ["all", "culture"],
+    "languages": ["ita"]
+  },
+  {
+    "id": "AlphaetOmegaTV.ci",
+    "country": "CI",
+    "name": "Alpha et Omega TV",
+    "logo": "https://i.imgur.com/s9EgQQI.jpg",
+    "categories": ["all", "religious"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "CaribbeanGospelTV.jm",
+    "country": "JM",
+    "name": "Caribbean Gospel TV",
+    "logo": "https://i.imgur.com/mVQ8J4k.png",
+    "categories": ["all", "religious"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "Fame95FM.jm",
+    "country": "JM",
+    "name": "Fame95 FM",
+    "logo": "https://i.imgur.com/fvtF0qM.png",
+    "categories": ["all", "music"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "AT-X.jp",
+    "country": "JP",
+    "name": "AT-X",
+    "logo": "https://i.imgur.com/turWday.png",
+    "categories": ["all", "animation"],
+    "languages": ["jpn"]
+  },
+  {
+    "id": "CGNTVJapan.jp",
+    "country": "JP",
+    "name": "CGNTV Japan",
+    "logo": "https://i.imgur.com/5LNZeVq.png",
+    "categories": ["all", "religious"],
+    "languages": ["jpn"]
+  },
+  {
+    "id": "NTVNews24.jp",
+    "country": "JP",
+    "name": "NTV News24",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/512px-News24.svg.png",
+    "categories": ["all", "news"],
+    "languages": ["jpn"]
+  },
+  {
+    "id": "Haqiqa.jo",
+    "country": "JO",
+    "name": "Haqiqa",
+    "logo": "https://i.imgur.com/I9SJ2kr.jpg",
+    "categories": ["all", "religious"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "KaifaTV.jo",
+    "country": "JO",
+    "name": "Kaifa TV",
+    "logo": "https://i.imgur.com/zGGeSQg.pn",
+    "categories": ["all", ""],
+    "languages": ["ara"]
+  },
+  {
+    "id": "AbaiTV.kz",
+    "country": "KZ",
+    "name": "Abai TV",
+    "logo": "https://i.imgur.com/Nw2R7Dq.png",
+    "categories": ["all", "culture"],
+    "languages": ["kaz", "eng"]
+  },
+  {
+    "id": "AlauTV.kz",
+    "country": "KZ",
+    "name": "Alau TV",
+    "logo": "https://i.imgur.com/gK6ZRzp.png",
+    "categories": ["all", ""],
+    "languages": ["kaz", "eng"]
+  },
+  {
+    "id": "BalapanTV.kz",
+    "country": "KZ",
+    "name": "Balapan TV",
+    "logo": "https://i.imgur.com/2o5T0gi.png",
+    "categories": ["all", "kids"],
+    "languages": ["kaz", "eng"]
+  },
+  {
+    "id": "Ontústik.kz",
+    "country": "KZ",
+    "name": "Ontústik",
+    "logo": "https://i.imgur.com/xqr1hjN.png",
+    "categories": ["all", ""],
+    "languages": ["kaz", "eng"]
+  },
+  {
+    "id": "Semeı.kz",
+    "country": "KZ",
+    "name": "Semeı",
+    "logo": "https://i.ibb.co/P9V0532/Captura.png",
+    "categories": ["all", "general"],
+    "languages": ["kaz", "eng"]
+  },
+  {
+    "id": "CitizenExtra.ke",
+    "country": "KE",
+    "name": "Citizen Extra",
+    "logo": "https://i.imgur.com/16d8NJd.jpg",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "InooroTV.ke",
+    "country": "KE",
+    "name": "Inooro TV",
+    "logo": "https://i.imgur.com/5qFJtmo.png",
+    "categories": ["all", ""],
+    "languages": ["eng"]
+  },
+  {
+    "id": "MorningCloudTV.ke",
+    "country": "KE",
+    "name": "Morning Cloud TV",
+    "logo": "https://i.imgur.com/Lxfd2ip.png",
+    "categories": ["all", ""],
+    "languages": ["eng"]
+  },
+  {
+    "id": "RamogiTV.ke",
+    "country": "KE",
+    "name": "Ramogi TV",
+    "logo": "https://i.imgur.com/N2Uz9mc.jpg",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "TVArbëria1.xk",
+    "country": "XK",
+    "name": "TV Arbëria 1",
+    "logo": "https://i.imgur.com/zLRzyVS.png",
+    "categories": ["all", "general"],
+    "languages": ["sqi", "srp"]
+  },
+  {
+    "id": "Arbëria2.xk",
+    "country": "XK",
+    "name": "Arbëria 2",
+    "logo": "https://i.imgur.com/zLRzyVS.png",
+    "categories": ["all", ""],
+    "languages": ["sqi", "srp"]
+  },
+  {
+    "id": "TVArbëria3Fëmijë.xk",
+    "country": "XK",
+    "name": "TV Arbëria 3 Fëmijë",
+    "logo": "https://i.imgur.com/zLRzyVS.png",
+    "categories": ["all", "kids"],
+    "languages": ["sqi", "srp"]
+  },
+  {
+    "id": "TVArbëria4Muzikë.xk",
+    "country": "XK",
+    "name": "TV Arbëria 4 Muzikë",
+    "logo": "https://i.imgur.com/zLRzyVS.png",
+    "categories": ["all", "music"],
+    "languages": ["sqi", "srp"]
+  },
+  {
+    "id": "TVArbëria5.xk",
+    "country": "XK",
+    "name": "TV Arbëria 5",
+    "logo": "https://i.imgur.com/zLRzyVS.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["sqi", "srp"]
+  },
+  {
+    "id": "KTV1.kw",
+    "country": "KW",
+    "name": "KTV 1",
+    "logo": "https://i.imgur.com/kG0d8Ay.png",
+    "categories": ["all", ""],
+    "languages": ["ara"]
+  },
+  {
+    "id": "KTV2.kw",
+    "country": "KW",
+    "name": "KTV 2",
+    "logo": "https://i.imgur.com/hB57mNh.png",
+    "categories": ["all", ""],
+    "languages": ["ara"]
+  },
+  {
+    "id": "KTVSport.kw",
+    "country": "KW",
+    "name": "KTV Sport",
+    "logo": "https://i.imgur.com/R1hGX1d.png",
+    "categories": ["all", "sports"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "312Кино.kg",
+    "country": "KG",
+    "name": "312 Кино",
+    "logo": "https://i.ibb.co/3m9LrLj/k7gIibH.png",
+    "categories": ["all", "movies"],
+    "languages": ["rus"]
+  },
+  {
+    "id": "312TB.kg",
+    "country": "KG",
+    "name": "312 TB",
+    "logo": "https://i.ibb.co/9HMNzMz/JPqHwaC.png",
+    "categories": ["all", "music"],
+    "languages": ["rus"]
+  },
+  {
+    "id": "TV1KG.kg",
+    "country": "KG",
+    "name": "TV1 KG",
+    "logo": "https://i.imgur.com/Mti9t9C.png",
+    "categories": ["all", ""],
+    "languages": ["rus"]
+  },
+  {
+    "id": "BrianTV.la",
+    "country": "LA",
+    "name": "Brian TV",
+    "logo": "https://i.imgur.com/zG1WNgU.jpg",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "CaribbeanHot7TV.lb",
+    "country": "LB",
+    "name": "Caribbean Hot 7 TV",
+    "logo": "https://i.ibb.co/sjTS4xD/logo116x90-2.png",
+    "categories": ["all", "general"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "AlMayadeen.lb",
+    "country": "LB",
+    "name": "Al Mayadeen",
+    "logo": "https://i.imgur.com/GtQOKeW.png",
+    "categories": ["all", ""],
+    "languages": ["ara"]
+  },
+  {
+    "id": "ALWifakNewsTV.lb",
+    "country": "LB",
+    "name": "ALWifak News TV",
+    "logo": "https://i.imgur.com/jrQ4w0m.png",
+    "categories": ["all", "news"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "LNTV.ls",
+    "country": "LS",
+    "name": "LNTV",
+    "logo": "https://i.ibb.co/5TdbQH4/LNTV-Liberia-Logo.png",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "AlMasarTV.ly",
+    "country": "LY",
+    "name": "Al Masar TV",
+    "logo": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQ",
+    "categories": ["all", "news"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "M-1.lt",
+    "country": "LT",
+    "name": "M-1",
+    "logo": "https://i.imgur.com/dGhizFW.png",
+    "categories": ["all", ""],
+    "languages": ["rus"]
+  },
+  {
+    "id": "apartTV.lu",
+    "country": "LU",
+    "name": "apart TV",
+    "logo": "https://i.imgur.com/IBcMIcZ.png",
+    "categories": ["all", "lifestyle"],
+    "languages": ["fra", "deu"]
+  },
+  {
+    "id": "ChamberTV.lu",
+    "country": "LU",
+    "name": "Chamber TV",
+    "logo": "https://i.imgur.com/YldMnap.jpg",
+    "categories": ["all", "legislative"],
+    "languages": ["fra", "deu"]
+  },
+  {
+    "id": "ReTV.lv",
+    "country": "LV",
+    "name": "Re TV",
+    "logo": "https://i.imgur.com/Z3cre5Xm.png",
+    "categories": ["all", ""],
+    "languages": ["eng"]
+  },
+  {
+    "id": "TVNET.lv",
+    "country": "LV",
+    "name": "TVNET",
+    "logo": "https://i.imgur.com/jzv1ssE.png",
+    "categories": ["all", ""],
+    "languages": ["eng"]
+  },
+  {
+    "id": "AlMasarTV.ly",
+    "country": "LY",
+    "name": "Al Masar TV",
+    "logo": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU",
+    "categories": ["all", "news"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "FebruaryChannel.ly",
+    "country": "LY",
+    "name": "February Channel",
+    "logo": "https://i.imgur.com/WdMIpsA.png",
+    "categories": ["all", ""],
+    "languages": ["ara"]
+  },
+  {
+    "id": "2MMonde.ma",
+    "country": "MA",
+    "name": "2M Monde",
+    "logo": "https://i.imgur.com/MvpntzA.png",
+    "categories": ["all", "general"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "ChadaTV.ma",
+    "country": "MA",
+    "name": "Chada TV",
+    "logo": "https://i.imgur.com/inJyJBN.png",
+    "categories": ["all", "general"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "TéléMaroc.ma",
+    "country": "MA",
+    "name": "Télé Maroc",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg",
+    "categories": ["all", "culture"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "SuperyachtTV.mc",
+    "country": "MC",
+    "name": "Superyacht TV",
+    "logo": "https://i.imgur.com/cgjgjE1.png",
+    "categories": ["all", "lifestyle"],
+    "languages": ["fra"]
+  },
+  {
+    "id": "TVTeuta.me",
+    "country": "ME",
+    "name": "TV Teuta",
+    "logo": "https://i.imgur.com/sWVqBuW.png",
+    "categories": ["all", "general"],
+    "languages": ["eng", "spa"]
+  },
+  {
+    "id": "FolkKlub.mk",
+    "country": "MK",
+    "name": "Folk Klub",
+    "logo": "https://i.imgur.com/Seq7Od7.png",
+    "categories": ["all", "music"],
+    "languages": ["sqi"]
+  },
+  {
+    "id": "INTVAustralia.mk",
+    "country": "MK",
+    "name": "INTV Australia",
+    "logo": "https://i.imgur.com/1nJl0Pv.png",
+    "categories": ["all", "music"],
+    "languages": ["sqi"]
+  },
+  {
+    "id": "ChannelK.mm",
+    "country": "MM",
+    "name": "Channel K",
+    "logo": "https://i.imgur.com/6PqxuhF.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "Mahar.mm",
+    "country": "MM",
+    "name": "Mahar",
+    "logo": "https://i.imgur.com/ig0QECf.png",
+    "categories": ["all", "movies"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "MCS.mm",
+    "country": "MM",
+    "name": "MCS",
+    "logo": "",
+    "categories": ["all", "entertainment"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "MNTV.mm",
+    "country": "MM",
+    "name": "MNTV",
+    "logo": "https://i.imgur.com/nssm7QK.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "AfroSportNigeria.ng",
+    "country": "NG",
+    "name": "AfroSport Nigeria",
+    "logo": "https://pbs.twimg.com/profile_images/1451668129042599936/Uh-Z6Sh1_400x400.jpg",
+    "categories": ["all", "sports"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "AMusicChannel.ng",
+    "country": "NG",
+    "name": "AMusic Channel",
+    "logo": "https://i.imgur.com/06zuf64.png",
+    "categories": ["all", "music"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "DoveTV.ng",
+    "country": "NG",
+    "name": "Dove TV",
+    "logo": "https://i.imgur.com/wOlMfCR.png",
+    "categories": ["all", ""],
+    "languages": ["eng"]
+  },
+  {
+    "id": "CanalMotor.no",
+    "country": "NO",
+    "name": "Canal Motor",
+    "logo": "https://i.imgur.com/nCAt3QN.png",
+    "categories": ["all", "auto"],
+    "languages": ["nor"]
+  },
+  {
+    "id": "TVModum.no",
+    "country": "NO",
+    "name": "TV Modum",
+    "logo": "https://i.imgur.com/kljua5X.png",
+    "categories": ["all", "general"],
+    "languages": ["nor"]
+  },
+  {
+    "id": "AlistiqamaTV.om",
+    "country": "OM",
+    "name": "Alistiqama TV",
+    "logo": "https://i.imgur.com/2FPtYZr.png",
+    "categories": ["all", "religious"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "OmanAlthakafia.om",
+    "country": "OM",
+    "name": "Oman Althakafia",
+    "logo": "https://i.imgur.com/b38wNPK.png",
+    "categories": ["all", ""],
+    "languages": ["ara"]
+  },
+  {
+    "id": "AlEhsaanTV.pk",
+    "country": "PK",
+    "name": "Al Ehsaan TV",
+    "logo": "https://i.imgur.com/hRzxiJ3.png",
+    "categories": ["all", "religious"],
+    "languages": ["urd"]
+  },
+  {
+    "id": "DiscoverPakistan.pk",
+    "country": "PK",
+    "name": "Discover Pakistan",
+    "logo": "https://i.imgur.com/IJH47fJ.png",
+    "categories": ["all", "travel"],
+    "languages": ["urd"]
+  },
+  {
+    "id": "KuriakosTV.pt",
+    "country": "PT",
+    "name": "Kuriakos TV",
+    "logo": "https://i.imgur.com/xdAW0D5.png",
+    "categories": ["all", "religious"],
+    "languages": ["por"]
+  },
+  {
+    "id": "ONFM.pt",
+    "country": "PT",
+    "name": "ON FM",
+    "logo": "https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png",
+    "categories": ["all", "music"],
+    "languages": ["por"]
+  },
+  {
+    "id": "RTPInternationalAsia.pt",
+    "country": "PT",
+    "name": "RTP International Asia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png",
+    "categories": ["all", "general"],
+    "languages": ["por"]
+  },
+  {
+    "id": "CinemaOne.ph",
+    "country": "PH",
+    "name": "Cinema One",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png",
+    "categories": ["all", "movies"],
+    "languages": ["eng", "fil", "ceb"]
+  },
+  {
+    "id": "GreatCommissionTV.ph",
+    "country": "PH",
+    "name": "Great Commission TV",
+    "logo": "https://i.imgur.com/8cvikOo.png",
+    "categories": ["all", ""],
+    "languages": ["eng", "fil", "ceb"]
+  },
+  {
+    "id": "MYXPhilippines.ph",
+    "country": "PH",
+    "name": "MYX Philippines",
+    "logo": "https://i.imgur.com/pbHuUuV.png",
+    "categories": ["all", "music"],
+    "languages": ["eng", "fil", "ceb"]
+  },
+  {
+    "id": "AlJazeeraArabic.qa",
+    "country": "QA",
+    "name": "Al Jazeera Arabic",
+    "logo": "https://i.imgur.com/7bRVpnu.png",
+    "categories": ["all", "news"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "AlJazeeraBalkans.qa",
+    "country": "QA",
+    "name": "Al Jazeera Balkans",
+    "logo": "https://i.imgur.com/vMzCr8O.png",
+    "categories": ["all", "news"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "AlJazeeraEnglish.qa",
+    "country": "QA",
+    "name": "Al Jazeera English",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",
+    "categories": ["all", "news"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "QatarTelevision.qa",
+    "country": "QA",
+    "name": "Qatar Television",
+    "logo": "https://i.imgur.com/N5RB4sp.png",
+    "categories": ["all", "general"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "7TV.ru",
+    "country": "RU",
+    "name": "7 TV",
+    "logo": "https://i.imgur.com/GpCwqUF.png",
+    "categories": ["all", ""],
+    "languages": ["rus"]
+  },
+  {
+    "id": "KulinarTVShow.ru",
+    "country": "RU",
+    "name": "Kulinar TV Show",
+    "logo": "https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png",
+    "categories": ["all", "cooking"],
+    "languages": ["rus"]
+  },
+  {
+    "id": "OceanTV.ru",
+    "country": "RU",
+    "name": "Ocean TV",
+    "logo": "https://i.imgur.com/zswzDZS.png",
+    "categories": ["all", "news"],
+    "languages": ["rus"]
+  },
+  {
+    "id": "ЮвелирочкаТВ.ru",
+    "country": "RU",
+    "name": "Ювелирочка ТВ",
+    "logo": "https://i.imgur.com/IcWtXCZ.png",
+    "categories": ["all", "shop"],
+    "languages": ["rus"]
+  },
+  {
+    "id": "AlEkhbariya.sa",
+    "country": "SA",
+    "name": "Al Ekhbariya",
+    "logo": "https://i.imgur.com/WcRlHQm.png",
+    "categories": ["all", "news"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "AsharqDiscovery.sa",
+    "country": "SA",
+    "name": "Asharq Discovery",
+    "logo": "https://i.imgur.com/Czxi7yk.png",
+    "categories": ["all", "documentary"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "AsharqDocumentary.sa",
+    "country": "SA",
+    "name": "Asharq Documentary",
+    "logo": "https://yt3.googleusercontent.com/AFUZ79or1rvrFKbfaMDdoJ1n_814lANCdUOdH0mdGRmcYfIfDH4cfTWwyUkHwie2I2xJPlaTJg=s512-c-k-c0x00ffffff-no-rj",
+    "categories": ["all", "documentary"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "AsharqNews.sa",
+    "country": "SA",
+    "name": "Asharq News",
+    "logo": "https://i.imgur.com/bqRC3sl.png",
+    "categories": ["all", "business"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "CNAInternational.sg",
+    "country": "SG",
+    "name": "CNA International",
+    "logo": "https://i.imgur.com/xWglicB.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ZooMooAsia.sg",
+    "country": "SG",
+    "name": "ZooMoo Asia",
+    "logo": "https://i.imgur.com/ciTJrnl.png",
+    "categories": ["all", "kids"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ABNTV.kr",
+    "country": "KR",
+    "name": "ABN TV",
+    "logo": "https://www.abn.co.kr/resources/images/logo.png",
+    "categories": ["all", "general"],
+    "languages": ["kor"]
+  },
+  {
+    "id": "CGNTV.kr",
+    "country": "KR",
+    "name": "CGNTV",
+    "logo": "https://i.imgur.com/zwZASOB.png",
+    "categories": ["all", "religious"],
+    "languages": ["kor"]
+  },
+  {
+    "id": "CTS기독교TV.kr",
+    "country": "KR",
+    "name": "CTS기독교TV",
+    "logo": "https://i.imgur.com/z3L8uNB.png",
+    "categories": ["all", "religious"],
+    "languages": ["kor"]
+  },
+  {
+    "id": "AfriwoodSeries.so",
+    "country": "SO",
+    "name": "Afriwood Series",
+    "logo": "https://i.imgur.com/9NFg3xp.png",
+    "categories": ["all", "series"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "CinemaHausa.so",
+    "country": "SO",
+    "name": "Cinema Hausa",
+    "logo": "https://i.imgur.com/uV5cHDW.png",
+    "categories": ["all", "movies"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "Diva.so",
+    "country": "SO",
+    "name": "Diva",
+    "logo": "https://i.imgur.com/bgBZgW0.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "SportsConnect.so",
+    "country": "SO",
+    "name": "Sports Connect",
+    "logo": "https://i.imgur.com/0sNWg54.png",
+    "categories": ["all", "sports"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "BeautifulLifeTV.tw",
+    "country": "TW",
+    "name": "Beautiful Life TV",
+    "logo": "Beautiful Life TV",
+    "categories": ["all", "religious"],
+    "languages": ["zho"]
+  },
+  {
+    "id": "DaliTV.tw",
+    "country": "TW",
+    "name": "Dali TV",
+    "logo": "https://i.imgur.com/pFIMLsA.png",
+    "categories": ["all", "general"],
+    "languages": ["zho"]
+  },
+  {
+    "id": "IBNTV.tz",
+    "country": "TZ",
+    "name": "IBN TV",
+    "logo": "https://i.imgur.com/y3zq0rw.jpg",
+    "categories": ["all", "religious"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "AboodTV.tz",
+    "country": "TZ",
+    "name": "Abood TV",
+    "logo": "https://i.imgur.com/vYEUncC.jpg",
+    "categories": ["all", "entertainment"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "24Канал.ua",
+    "country": "UA",
+    "name": "24 Канал",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png",
+    "categories": ["all", "news"],
+    "languages": ["ukr"]
+  },
+  {
+    "id": "BamBarBiaTV.ua",
+    "country": "UA",
+    "name": "BamBarBia TV",
+    "logo": "https://i.imgur.com/zdRvy87.png",
+    "categories": ["all", "travel"],
+    "languages": ["ukr"]
+  },
+  {
+    "id": "BlackSeaTV.ua",
+    "country": "UA",
+    "name": "Black Sea TV",
+    "logo": "https://i.imgur.com/D8YJzHV.png",
+    "categories": ["all", "general"],
+    "languages": ["ukr"]
+  },
+  {
+    "id": "AlphaDigital.ug",
+    "country": "UG",
+    "name": "Alpha Digital",
+    "logo": "https://i.imgur.com/ZlMARQx.jpg",
+    "categories": ["all", "religious"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "BBSTV.ug",
+    "country": "UG",
+    "name": "BBS TV",
+    "logo": "https://i.imgur.com/1CIxIGl.png",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "BukeddeTV1.ug",
+    "country": "UG",
+    "name": "Bukedde TV 1",
+    "logo": "https://i.imgur.com/HFq5QlJ.png",
+    "categories": ["all", ""],
+    "languages": ["eng"]
+  },
+  {
+    "id": "KSTVUganda.ug",
+    "country": "UG",
+    "name": "KSTV Uganda",
+    "logo": "https://i.imgur.com/8w1xyHn.png",
+    "categories": ["all", ""],
+    "languages": ["eng"]
+  },
+  {
+    "id": "BBCNews(NorthAmerica).uk",
+    "country": "UK",
+    "name": "BBC News (North America)",
+    "logo": "https://i.imgur.com/vSz2WEp.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "BENTelevision.uk",
+    "country": "UK",
+    "name": "BEN Television",
+    "logo": "https://i.imgur.com/DUAjjvT.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "BloombergTVEurope.uk",
+    "country": "UK",
+    "name": "Bloomberg TV Europe",
+    "logo": "https://i.imgur.com/OuogLHx.png",
+    "categories": ["all", "business"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "GBNews.uk",
+    "country": "UK",
+    "name": "GB News",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ABCNewsLive1.us",
+    "country": "US",
+    "name": "ABC News Live 1",
+    "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ABCNewsLive2.us",
+    "country": "US",
+    "name": "ABC News Live 2",
+    "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ABCNewsLive3.us",
+    "country": "US",
+    "name": "ABC News Live 3",
+    "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ABCNewsLive4.us",
+    "country": "US",
+    "name": "ABC News Live 4",
+    "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ABCNewsLive5.us",
+    "country": "US",
+    "name": "ABC News Live 5",
+    "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ABCNewsLive6.us",
+    "country": "US",
+    "name": "ABC News Live 6",
+    "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ABCNewsLive7.us",
+    "country": "US",
+    "name": "ABC News Live 7",
+    "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ABCNewsLive8.us",
+    "country": "US",
+    "name": "ABC News Live 8",
+    "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ABCNewsLive9.us",
+    "country": "US",
+    "name": "ABC News Live 9",
+    "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ABCNewsLive10.us",
+    "country": "US",
+    "name": "ABC News Live 10",
+    "logo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "AdultSwimChannel5.us",
+    "country": "US",
+    "name": "Adult Swim Channel 5",
+    "logo": "https://i.imgur.com/G9TyeCN.png",
+    "categories": ["all", "entertainment"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "30AGeorgiaHollywoodReviewTV.us",
+    "country": "US",
+    "name": "30A Georgia Hollywood Review TV",
+    "logo": "https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg",
+    "categories": ["all", "entertainment"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ABNChina.us",
+    "country": "US",
+    "name": "ABN China",
+    "logo": "https://i.imgur.com/zagVLQH.png",
+    "categories": ["all", "religious"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "ABNTVIndia.us",
+    "country": "US",
+    "name": "ABN TV India",
+    "logo": "https://i.imgur.com/VcZn60X.png",
+    "categories": ["all", "religious"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "BeachTVPanamaCity.us",
+    "country": "US",
+    "name": "Beach TV Panama City",
+    "logo": "https://i.imgur.com/HCQDvEe.png",
+    "categories": ["all", "travel"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "BloombergTV+UHD.us",
+    "country": "US",
+    "name": "Bloomberg TV+ UHD",
+    "logo": "https://i.imgur.com/OuogLHx.png",
+    "categories": ["all", "business"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "FOXNewsNow.us",
+    "country": "US",
+    "name": "FOX News Now",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "UCL.uy",
+    "country": "UY",
+    "name": "UCL",
+    "logo": "https://i.imgur.com/BzQphbw.png",
+    "categories": ["all"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "AguacateTV.ve",
+    "country": "VE",
+    "name": "Aguacate TV",
+    "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
+    "categories": ["all", "entertainment"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "BTATV.ve",
+    "country": "VE",
+    "name": "BTA TV",
+    "logo": "https://i.imgur.com/vygOosC.png",
+    "categories": ["all", "music"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "CantinaTV.ve",
+    "country": "VE",
+    "name": "Cantina TV",
+    "logo": "https://i.imgur.com/JWMk2fP.png",
+    "categories": ["all", "music"],
+    "languages": ["spa"]
+  },
+  {
+    "id": "BacNinhTV.vn",
+    "country": "VN",
+    "name": "Bac Ninh TV",
+    "logo": "https://i.postimg.cc/WbrWPpVg/BTV-Bac-Ninh-2021.png",
+    "categories": ["all", ""],
+    "languages": ["vie"]
+  },
+  {
+    "id": "CaoBangTV.vn",
+    "country": "VN",
+    "name": "Cao Bang TV",
+    "logo": "https://i.imgur.com/dGonewm.png",
+    "categories": ["all", "general"],
+    "languages": ["vie"]
+  },
+  {
+    "id": "DhammasaphaTV.vn",
+    "country": "VN",
+    "name": "Dhammasapha TV",
+    "logo": "https://i.imgur.com/TWJgMuE.jpg",
+    "categories": ["all", "religious"],
+    "languages": ["vie"]
+  },
+  {
+    "id": "HaTinhTV.vn",
+    "country": "VN",
+    "name": "Ha Tinh TV",
+    "logo": "https://i.imgur.com/4yIgKKx.png",
+    "categories": ["all", ""],
+    "languages": ["vie"]
+  },
+  {
+    "id": "LittleSaigonTV.vn",
+    "country": "VN",
+    "name": "Little Saigon TV",
+    "logo": "https://i.imgur.com/XyhgeKL.png",
+    "categories": ["all", "culture"],
+    "languages": ["vie"]
+  },
+  {
+    "id": "ThaiNguyenTV.vn",
+    "country": "VN",
+    "name": "Thai Nguyen TV",
+    "logo": "https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png",
+    "categories": ["all", "general"],
+    "languages": ["vie"]
+  },
+  {
+    "id": "TienGiang.vn",
+    "country": "VN",
+    "name": "Tien Giang",
+    "logo": "https://i.imgur.com/yonKxgZ.png",
+    "categories": ["all", ""],
+    "languages": ["vie"]
+  },
+  {
+    "id": "AlmahriahTV.ye",
+    "country": "YE",
+    "name": "Almahriah TV",
+    "logo": "https://i.imgur.com/GgEeTNr.png",
+    "categories": ["all", "news"],
+    "languages": ["ara"]
+  },
+  {
+    "id": "YemenTodayTV.ye",
+    "country": "YE",
+    "name": "Yemen Today TV",
+    "logo": "https://i.imgur.com/8TzcJu5.png",
+    "categories": ["all", ""],
+    "languages": ["ara"]
+  },
+  {
+    "id": "1KZNTV.za",
+    "country": "ZA",
+    "name": "1KZN TV",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg",
+    "categories": ["all", "family"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "AfrobeatsTV.za",
+    "country": "ZA",
+    "name": "Afrobeats TV",
+    "logo": "https://i.imgur.com/u0d5j0C.png",
+    "categories": ["all", "music"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "CapeTownTV.za",
+    "country": "ZA",
+    "name": "Cape Town TV",
+    "logo": "https://i.imgur.com/Y8FK1Kk.png",
+    "categories": ["all", "general"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "GODTVAfrica.za",
+    "country": "ZA",
+    "name": "GOD TV Africa",
+    "logo": "https://i.imgur.com/hW4g2oe.png",
+    "categories": ["all", "religious"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "HilaalTV.za",
+    "country": "ZA",
+    "name": "Hilaal TV",
+    "logo": "https://i.imgur.com/tlylDbi.png",
+    "categories": ["all", "religious"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "SABCNews.za",
+    "country": "ZA",
+    "name": "SABC News",
+    "logo": "https://i.imgur.com/liLta8j.png",
+    "categories": ["all", "news"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "SowetoTV.za",
+    "country": "ZA",
+    "name": "Soweto TV",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg",
+    "categories": ["all", "family"],
+    "languages": ["eng"]
+  },
+  {
+    "id": "MYXPhilippines.ph",
+    "country": "PH",
+    "name": "MYX Philippines",
+    "logo": "https://i.imgur.com/pbHuUuV.png",
+    "categories": ["all", "music"],
+    "languages": ["eng", "fil", "ceb"]
+  },
+  {
+    "id": "GreatCommissionTV.ph",
+    "country": "PH",
+    "name": "Great Commission TV",
+    "logo": "https://i.imgur.com/8cvikOo.png",
+    "categories": ["all", ""],
+    "languages": ["eng", "fil", "ceb"]
+  },
+  {
+    "id": "CinemaOne.ph",
+    "country": "PH",
+    "name": "Cinema One",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png",
+    "categories": ["all", "movies"],
+    "languages": ["eng", "fil", "ceb"]
+  }
+]
